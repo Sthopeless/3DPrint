@@ -1,6 +1,6 @@
 # AM8
   
-### Stock Anet A8 Hardware
+> Stock Anet A8 Hardware
 Stepper Motors  
 Heated Bed 12V 220*220*3  
 Y Carriage  
