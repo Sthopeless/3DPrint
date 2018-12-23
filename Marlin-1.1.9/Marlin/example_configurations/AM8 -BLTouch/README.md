@@ -15,6 +15,8 @@
 - BLTouch  
 - ATX PSU 25A  
 - IGUS RJ4JP-01-08  
+- 3D Printer Dupont Wires Set  
+- RepRapDiscount Full Graphic Smart Controller
   
 ### Printed Parts
 ##### To-Do
