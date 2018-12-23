@@ -1,4 +1,7 @@
 # AM8
+
+### Firmware
+- Marlin v1.1.9 - AM8 (BLTouch)
   
 ### Stock Anet A8 Hardware
 - Stepper Motors  
