@@ -1,6 +1,6 @@
 # Stepper Motors Connection in Series for Z-Axis
   
-![Alt text](pics/Stepper Motor Series Connection.jpg?raw=true)  
+![Alt text](pics/Stepper%20Motor%20Series%20Connection.jpg?raw=true)  
 ![Alt text](pics/1.jpg?raw=true)
 ![Alt text](pics/2.jpg?raw=true)
 ![Alt text](pics/3.jpg?raw=true)
